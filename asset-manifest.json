@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ripon-Video-Pickuplines/static/css/main.e24bcd97.css",
+    "main.js": "/Ripon-Video-Pickuplines/static/js/main.0fbd75af.js",
+    "static/js/787.a955bdb0.chunk.js": "/Ripon-Video-Pickuplines/static/js/787.a955bdb0.chunk.js",
+    "static/media/test.mp3": "/Ripon-Video-Pickuplines/static/media/test.bffe514753e1fd2aa2a3.mp3",
+    "static/media/ripon_video_PC.png": "/Ripon-Video-Pickuplines/static/media/ripon_video_PC.c5e2dcaeada5bc57e390.png",
+    "static/media/ripon_video_Mobile.png": "/Ripon-Video-Pickuplines/static/media/ripon_video_Mobile.230283907819c0a81df6.png",
+    "index.html": "/Ripon-Video-Pickuplines/index.html",
+    "main.e24bcd97.css.map": "/Ripon-Video-Pickuplines/static/css/main.e24bcd97.css.map",
+    "main.0fbd75af.js.map": "/Ripon-Video-Pickuplines/static/js/main.0fbd75af.js.map",
+    "787.a955bdb0.chunk.js.map": "/Ripon-Video-Pickuplines/static/js/787.a955bdb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24bcd97.css",
+    "static/js/main.0fbd75af.js"
+  ]
+}
