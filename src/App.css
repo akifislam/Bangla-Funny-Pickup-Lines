@@ -1,34 +1,72 @@
-*{
-  background-color: black;
+* {
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
 }
-.header{
-  margin-top: 20px;
+
+@media only screen and (min-width: 400px) {
+  body {
+    background-image: url(./ripon_video_PC.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: auto;
+  }
+}
+
+body {
+  background-image: url(./ripon_video_Mobile.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.header {
+  margin-top: 30px;
   display: flex;
-  align-items:center ;
+  align-items: center;
   justify-content: center;
   flex-direction: column;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 30px;
 }
-.play-song{
+.get-one-button {
+  margin: 20px;
   display: flex;
-  align-items:center ;
+  align-items: center;
   justify-content: center;
-  flex-direction: column;
-
+}
+.song-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.ripon-data{
+.ripon-data {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   margin-top: 100px;
-  box-sizing: border-box;
-  border: 5px solid white;
-  border-radius: 50px;
-  color:white;
-  background-color:blueviolet;
+  /* box-sizing: border-box; */
+  /* border: 5px solid white; */
+  /* border-radius: 50px; */
+  color: white;
+  /* background-color: blueviolet; */
 }
 
+.display {
+  font-size: 30px;
+}
 
+.foot {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(235, 195, 64);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
