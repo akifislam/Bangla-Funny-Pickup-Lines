@@ -5,6 +5,13 @@
   font-weight: 900;
 }
 
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
 @media only screen and (min-width: 400px) {
   body {
     background-image: url(./ripon_video_PC.png);
@@ -23,42 +30,51 @@ body {
 }
 
 .header {
-  margin-top: 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+  margin-top: 100px;
+
   color: white;
   font-weight: bolder;
   font-size: 30px;
 }
 .get-one-button {
-  margin: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-top: 60px;
+
 }
 .song-buttons {
   display: flex;
-  align-items: center;
-  justify-content: center;
+
 }
 
 .ripon-data {
   display: flex;
-  align-items: center;
   justify-content: center;
   flex-direction: column;
-  margin-top: 100px;
-  /* box-sizing: border-box; */
-  /* border: 5px solid white; */
-  /* border-radius: 50px; */
+  align-items: center;
+  margin-top: 80px;
+  padding: 20px;
   color: white;
-  /* background-color: blueviolet; */
+  border: 5px solid white;
+  width:40%;
+  border-style:;
+}
+@media only screen and (max-width: 500px) {
+  .ripon-data {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    width:80%;
+    
+  }
 }
 
 .display {
   font-size: 30px;
+  
 }
 
 .foot {
