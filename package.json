@@ -2,7 +2,7 @@
   "name": "pickup-line-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akifislam.me/Bangla-Funny-Pickup-Lines/",
+  "homepage": "https://akifislam.github.io/Bangla-Funny-Pickup-Lines/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
