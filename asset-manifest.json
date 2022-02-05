@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ripon-Video-Pickuplines/static/css/main.e24bcd97.css",
-    "main.js": "/Ripon-Video-Pickuplines/static/js/main.0fbd75af.js",
-    "static/js/787.a955bdb0.chunk.js": "/Ripon-Video-Pickuplines/static/js/787.a955bdb0.chunk.js",
-    "static/media/test.mp3": "/Ripon-Video-Pickuplines/static/media/test.bffe514753e1fd2aa2a3.mp3",
-    "static/media/ripon_video_PC.png": "/Ripon-Video-Pickuplines/static/media/ripon_video_PC.c5e2dcaeada5bc57e390.png",
-    "static/media/ripon_video_Mobile.png": "/Ripon-Video-Pickuplines/static/media/ripon_video_Mobile.230283907819c0a81df6.png",
-    "index.html": "/Ripon-Video-Pickuplines/index.html",
-    "main.e24bcd97.css.map": "/Ripon-Video-Pickuplines/static/css/main.e24bcd97.css.map",
-    "main.0fbd75af.js.map": "/Ripon-Video-Pickuplines/static/js/main.0fbd75af.js.map",
-    "787.a955bdb0.chunk.js.map": "/Ripon-Video-Pickuplines/static/js/787.a955bdb0.chunk.js.map"
+    "main.css": "/Bangla-Funny-Pickup-Lines/static/css/main.5592dc28.css",
+    "main.js": "/Bangla-Funny-Pickup-Lines/static/js/main.cbb345f9.js",
+    "static/js/787.a955bdb0.chunk.js": "/Bangla-Funny-Pickup-Lines/static/js/787.a955bdb0.chunk.js",
+    "static/media/test.mp3": "/Bangla-Funny-Pickup-Lines/static/media/test.bffe514753e1fd2aa2a3.mp3",
+    "static/media/ripon_video_PC.png": "/Bangla-Funny-Pickup-Lines/static/media/ripon_video_PC.c5e2dcaeada5bc57e390.png",
+    "static/media/ripon_video_Mobile.png": "/Bangla-Funny-Pickup-Lines/static/media/ripon_video_Mobile.230283907819c0a81df6.png",
+    "index.html": "/Bangla-Funny-Pickup-Lines/index.html",
+    "main.5592dc28.css.map": "/Bangla-Funny-Pickup-Lines/static/css/main.5592dc28.css.map",
+    "main.cbb345f9.js.map": "/Bangla-Funny-Pickup-Lines/static/js/main.cbb345f9.js.map",
+    "787.a955bdb0.chunk.js.map": "/Bangla-Funny-Pickup-Lines/static/js/787.a955bdb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24bcd97.css",
-    "static/js/main.0fbd75af.js"
+    "static/css/main.5592dc28.css",
+    "static/js/main.cbb345f9.js"
   ]
 }
