@@ -22,11 +22,9 @@ This project was built using these technologies.
 
 ## Features
 
-**📖 Multi-Page Layout**
+**📱 Responsive for Mobile**
+**🔥 Randomoly Get 49 Ripon Bangla Funny Dialogues 
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
 
 ## Getting Started
 
@@ -42,10 +40,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
 
 ## Credit
 * Dialogues : Ripon Dada / I am Ripon Video
