@@ -22,7 +22,7 @@ This project was built using these technologies.
 
 ## Features
 
-**📱 Responsive for Mobile**
+**📱 Responsive for Mobile
 **🔥 Randomoly Get 49 Ripon Bangla Funny Dialogues 
 
 
