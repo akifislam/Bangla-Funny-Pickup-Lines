@@ -41,5 +41,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 
-
+## Credit
+* Dialogues : Ripon Dada / I am Ripon Video
+* Music Credit : Amay Diyo Call Song - The Ajaira Ltd (https://youtu.be/hTdk83ytEvE)
+* Inspiration : Mohammad Ruhul Ameen, Momen Khandoker Opi & Shoriful Islam
 
